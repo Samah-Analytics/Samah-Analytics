@@ -20,11 +20,11 @@ As a fresh graduate, I am eager to apply and grow my skills in **Excel, Power Qu
 * **Objective:** Cleaned and analyzed a healthcare tracking dataset using Power Query and Power BI to learn how to identify operational bottlenecks.
 * **Key Outcome:** Created a three-panel visual layout (Dashboard Preview, Admission Volume, and Patient Referral grids) to practice structuring dashboard workflows.
 
-### 👥 HR Workforce & Retention Insights Dashboard *(In Progress)*
+### 👥 HR Workforce & Retention Insights Dashboard
 * **Objective:** Transforming spreadsheet logs into interactive tracking panels to evaluate employee metrics.
 * **Key Focus:** Aligning this project with skills practiced during my HR Practicum at GEF Senior Housing, focusing on secure document layouts and basic report automation.
 
-### 📈 Sales Performance & Revenue Analytics *(In Progress)*
+### 📈 Sales Performance & Revenue Analytics 
 * **Objective:** Utilizing relational database models and entry-level SQL queries to practice tracking transaction trends.
 
 ---
